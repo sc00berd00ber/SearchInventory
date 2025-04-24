@@ -23,6 +23,7 @@ public class Product {
     public void setId(int id){
         this.id = id;
     }
+    //Setters
     public void setName(String name) {
         this.name = name;
     }
